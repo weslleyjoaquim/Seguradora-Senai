@@ -19,7 +19,7 @@ public class ModuloConexao {
         String driver = "com.mysql.cj.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/seguradora";
         String user = "root";
-        String password = "P@ss12";
+        String password = "P@ss123";
         
         //Estabelecendo conexão com o banco
         try{
